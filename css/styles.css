@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica". sans-serif;;
+}
+.chart-title {
+  font-weight: 900;
+  font-size: 1.3em;
+
+}
+.chart-subtitle {
+  font-style: italic;
+  font-size: 1.1em;
+}
+#chart {
+  height: 650px;
+  width:  700px;
+}
+.chart-source {
+  color: #888;
+}
